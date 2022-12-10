@@ -1,0 +1,24 @@
+html {
+    font-size: 16px;
+}
+div {
+    font-size: 30px;
+    width: 25%;
+    height: 100%;
+    font-size: 30px;
+    display: inline;
+    color: red;
+}
+.first {
+    background-color: blue;
+
+}
+.second {
+    background-color: yellow;
+}
+#em {
+    font-size: 2em;
+}
+#rem {
+    font-size: 2rem;
+}
